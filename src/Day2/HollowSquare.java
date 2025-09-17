@@ -1,4 +1,4 @@
-package day2;
+package Day2;
 import java.util.Scanner;
 public class HollowSquare {
 	public static void main(String[] args) {
